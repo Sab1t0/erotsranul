@@ -1,0 +1,87 @@
+/* Panton */
+@font-face {
+	font-family: 'Panton';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Panton'), url('../fonts/Panton-BlackitalicCaps.woff2') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: normal;
+	font-weight: 290;
+	src: local('Panton'), url('../fonts/Panton-LightCaps.woff2') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: italic;
+	font-weight: 300;
+	src: local('Panton'), url('../fonts/Panton-LightitalicCaps.woff2') format('woff');
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Panton';
+	font-style: normal;
+	font-weight: 390;
+	src: local('Panton'), url('../fonts/Panton-BlackCaps.woff2') format('woff');
+	font-display: swap;
+}
+
+/* Minecraft */
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('../fonts/Minecraft-Italic.woff2') format('woff2');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('../fonts/Minecraft-Bold.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('../fonts/Minecraft-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'Minecraft';
+	src: local('Minecraft'), url('../fonts/Minecraft-BoldItalic.woff2') format('woff2');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+/* Dripy Halloween */
+@font-face {
+	font-family: 'Halloween-Dripy';
+	src: url('../fonts/Dripy-Halloween.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* Cursive Halloween */
+@font-face {
+	font-family: 'Halloween-Cursive';
+	src: url('../fonts/Cursive-Halloween.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+/* Cursive Christmas */
+@font-face {
+	font-family: 'Christmas-Cursive';
+	src: url('../fonts/Cursive-Christmas.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
